@@ -13,6 +13,7 @@ New Zealand: 123B Churchill Rd, Rothesay Bay, Auckland 0630 | +64-27-260-1488
 Founded JF Technology, Inc for software engineering consultation. Open source projects creator and contributor:
 
 - https://github.com/jf-tech/
+- Created and implemented https://github.com/jf-tech/omniparser, a highly flexible and scalable text parser that has the capability of supporting virtually any text format for data ingestion and transformation. Extensively used in both open and commercial projects across and featured in Awesome Go list.
 
 #### Narvar, Inc. 2018-2020
 
