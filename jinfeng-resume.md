@@ -8,13 +8,13 @@ New Zealand: 123B Churchill Rd, Rothesay Bay, Auckland 0630 | +64-27-260-1488
 
 ## Experiences
 
-##### JF Technology, Inc. 2018-Date
+#### JF Technology, Inc. 2018-Date
 
 Founded JF Technology, Inc for software engineering consultation. Open source projects creator and contributor:
 
 - https://github.com/jf-tech/
 
-##### Narvar, Inc. 2018-2020
+#### Narvar, Inc. 2018-2020
 
 Served as architecture group lead, oversaw software development and started New Zealand branch. Highlights include:
 
@@ -25,7 +25,7 @@ Served as architecture group lead, oversaw software development and started New 
 - Architecture reviews, code reviews across groups.
 - Worked primarily with Golang.
 
-##### Twitter, Inc. 2011-2017
+#### Twitter, Inc. 2011-2017
 
 Worked on various projects, and served in several different roles including senior individual software contributor and engineering manager. Highlights include:
 
@@ -33,7 +33,7 @@ Worked on various projects, and served in several different roles including seni
 - Twitter timeline system, the core backend system of Twitter. Work included retrieving, ranking, filtering, fanning-out billions of tweets in real time.
 - Worked primarily with Scala and Java.
 
-##### Microsoft, Corp. 2001-2011
+#### Microsoft, Corp. 2001-2011
 Worked in various senior individual software contributor roles and senior engineering team lead roles. Highlights include:
 
 - Microsoft SQL Server manageability tools. Developed many tools for SQL Server management.
