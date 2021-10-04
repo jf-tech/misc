@@ -2,9 +2,9 @@
 
 Email: jf.tech.llc@gmail.com
 
-USA Contact: 3824 Cedar Springs Rd #801-2587, Dallas, TX 75219 | +1-817-668-6111
+USA Contact: address/phone upon request
 
-New Zealand: 123B Churchill Rd, Rothesay Bay, Auckland 0630 | +64-27-260-1488
+New Zealand: address/phone upon request
 
 ## Experiences
 
