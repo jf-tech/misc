@@ -17,9 +17,9 @@ Founded JF Technology, Inc for software engineering consultation. Open source pr
 
 #### Narvar, Inc. 2018-2020
 
-Served as architecture group lead, oversaw software development and started New Zealand branch. Highlights include:
+Served as architecture tech lead, oversaw software development. Highlights include:
 
-- Established Narvar NZ branch, hiring, growing and mentoring.
+- Started, hired and mentored local NZ developers.
 - Rewrote of Narvar’s delivery estimation backend system.
 - Designed/implemented high throughput generic file processing system as part of Narvar's ETL pipeline.
 - Established coding practices and engineering standards across Narvar eng teams.
