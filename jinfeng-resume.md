@@ -38,5 +38,5 @@ Worked on various projects, and served in several different roles including seni
 Worked in various senior individual software contributor roles and senior engineering team lead roles. Highlights include:
 
 - Microsoft SQL Server manageability tools. Developed many tools for SQL Server management.
-- Windows printing subsystem. Developed a number of features and tools for the OS printing subsystems in Windows XP, Server 2003, Vista, and 7. The printing status window was written by me and is still being used in Windows 10.
+- Windows printing subsystem. Developed a number of features and tools for the OS printing subsystems in Windows XP, Server 2003, Vista, and 7. The printing status window was written by me and is still being used in Windows 11.
 - Worked primarily with C++/C#/SQL.
