@@ -1,6 +1,6 @@
 # Jin Feng
 
-Email: jf.tech.llc@gmail.com
+Email: github@jf-tech.us
 
 USA Contact: address/phone upon request
 
